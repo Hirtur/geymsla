@@ -3,4 +3,4 @@ Hvað gera eftirfarandi Linux skipanir?
 cd ->skipta um möppu
 ls -
 pwd -
-mkdir -
+mkdir -> býr yil möppu
