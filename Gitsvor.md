@@ -1,6 +1,5 @@
 verkefni 5
-Hvað gera eftirfarandi Linux skipanir?
-cd ->skipta um möppu
-ls ->sýnir tölvuskráir
-pwd ->notuð til að framleiða slóð núverandi vinnuskrá
-mkdir -> býr yil möppu
+Hvað gera eftirfarandi Git skipanir? 
+git clone->Git clone skipunin afritar núverandi Git geymslu.
+git status->
+git diff->
